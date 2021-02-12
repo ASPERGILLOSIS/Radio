@@ -1,0 +1,120 @@
+[
+	{   "id": 0,
+        "station": "Люкс FM",
+        "desc": "Розважальне радіо №1",
+        "logo": "https://lux.fm/images/logo-lux.svg",
+        "stream": "http://icecast.luxnet.ua/lux"
+    },
+	
+	{   "id": 1,
+        "station": "Радіо MAXIMUM",
+        "desc": "МАКСИМУМ ХІТІВ НА РАДІО МАКСИМУМ",
+        "logo": "http://www.proradio.org.ua/logos/maximumfmbig.gif",
+        "stream": "http://icecastlv.luxnet.ua:8000/radio24"
+    },
+
+	{   "id": 2,
+        "station": "Радіо 10",
+        "desc": "Почуй усе",
+        "logo": "http://www.proradio.org.ua/logos/radio10big.gif",
+        "stream": "http://91.205.207.98:8081/acc.mp3"
+    },
+
+    {   "id": 3,
+        "station": "Хіт FM",
+        "desc": "Тільки хіти!",
+        "logo": "https://play.tavr.media/static/image/header_menu/hit_efir_210x210.png",
+        "stream": "http://online.hitfm.ua/HitFM"
+    },
+
+   {   "id": 4,
+        "station": "Хіт FM Українські хіти",
+        "desc": "Тільки хіти!",
+        "logo": "https://play.tavr.media/static/image/header_menu/hit_uahits_210x210.png",
+        "stream": "http://online.hitfm.ua/HitFM_Ukr"
+    },
+	
+   {   "id": 5,
+        "station": "Хіт FM Найбільші хіти",
+        "desc": "Тільки хіти!",
+        "logo": "https://play.tavr.media/static/image/header_menu/hit_biggesthits_210x210.png",
+        "stream": "http://online.hitfm.ua/HitFM_Best"
+    },
+
+   {   "id": 6,
+        "station": "Хіт FM Сучасні хіти",
+        "desc": "Тільки хіти!",
+        "logo": "https://play.tavr.media/static/image/header_menu/hit_modernhits_210x210.png",
+        "stream": "http://online.hitfm.ua/HitFM_Top"
+    },
+	
+   {   "id": 7,
+        "station": "Kiss FM",
+        "desc": "The Best Dance Radio",
+        "logo": "https://play.tavr.media/static/image/header_menu/kiss_efir_210x210.png",
+        "stream": "http://online.kissfm.ua/KissFM"
+    },
+
+   {   "id": 8,
+        "station": "Kiss FM Ukrainian",
+        "desc": "The Best Dance Radio",
+        "logo": "https://play.tavr.media/static/image/header_menu/kiss_ukrainian_210x210.png",
+        "stream": "http://online.kissfm.ua/KissFM_Ukr"
+    },
+
+   {   "id": 9,
+        "station": "Kiss FM Deep",
+        "desc": "The Best Dance Radio",
+        "logo": "https://play.tavr.media/static/image/header_menu/kiss_deep_210x210.png",
+        "stream": "http://online.kissfm.ua/KissFM_Deep"
+    },
+
+   {   "id": 10,
+        "station": "Kiss FM Black",
+        "desc": "The Best Dance Radio",
+        "logo": "https://play.tavr.media/static/image/header_menu/kiss_black_210x210.jpg",
+        "stream": "http://online.kissfm.ua/KissFM_Black"
+    },
+
+   {   "id": 11,
+        "station": "Kiss FM Digital",
+        "desc": "The Best Dance Radio",
+        "logo": "https://play.tavr.media/static/image/header_menu/kiss_digital_210x210.png",
+        "stream": "http://online.kissfm.ua/KissFM_Digital"
+    },
+
+   {   "id": 12,
+        "station": "Kiss FM Trendz",
+        "desc": "The Best Dance Radio",
+        "logo": "https://play.tavr.media/static/image/header_menu/kiss_trendz_210x210.png",
+        "stream": "http://online.kissfm.ua/KissFM_Trendz"
+    },
+
+   {   "id": 13,
+        "station": "Radio Relax",
+        "desc": "Легке та спокійне радіо",
+        "logo": "https://play.tavr.media/static/image/header_menu/Relax_Efir_220x220.png",
+        "stream": "http://online.radiorelax.ua/RadioRelax"
+    },
+
+   {   "id": 14,
+        "station": "Radio Relax International",
+        "desc": "Легке та спокійне радіо",
+        "logo": "https://play.tavr.media/static/image/header_menu/Relax_International_220x220.png",
+        "stream": "http://online.radiorelax.ua/RadioRelax_Int"
+    },
+
+   {   "id": 15,
+        "station": "Radio Relax Instrumental",
+        "desc": "Легке та спокійне радіо",
+        "logo": "https://play.tavr.media/static/image/header_menu/Relax_Instrumental_220x220.png",
+        "stream": "http://online.radiorelax.ua/RadioRelax_Instrumental"
+    },
+
+   {   "id": 16,
+        "station": "Radio Relax Cafe",
+        "desc": "Легке та спокійне радіо",
+        "logo": "https://play.tavr.media/static/image/header_menu/Relax_Cafe_220x220.png",
+        "stream": "http://online.radiorelax.ua/RadioRelax_Cafe"
+    }
+]
