@@ -116,14 +116,14 @@
         "desc": "Легке та спокійне радіо",
         "logo": "https://play.tavr.media/static/image/header_menu/Relax_Cafe_220x220.png",
         "stream": "http://online.radiorelax.ua/RadioRelax_Cafe"
-    }
+    },
 	
  {   "id": 17,
         "station": "Наше радіо",
         "desc": "Наші топ хіти",
         "logo": "https://play.tavr.media/static/image/header_menu/NasheRadio_Logo_220x220.png",
         "stream": "http://online.nasheradio.ua/NasheRadio"
-    }
+    },
 	
  {   "id": 18,
         "station": "Наше радіо укр топ 100",
@@ -131,5 +131,4 @@
         "logo": "https://play.tavr.media/static/image/header_menu/Radio_IndieUA_logo_220x220.png",
         "stream": "https://online.radioplayer.ua/RadioIndieUA"
     }	
-	
 ]
