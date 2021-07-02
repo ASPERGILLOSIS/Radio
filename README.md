@@ -1,5 +1,5 @@
 # Radio
-Radio setup based on MPD.FM (https://github.com/florianheinemann/MPD.FM)
+Ukranian radio stations list for MPD.FM (https://github.com/florianheinemann/MPD.FM)
 
 
 
