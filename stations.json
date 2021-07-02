@@ -126,7 +126,7 @@
     },
 	
  {   "id": 18,
-        "station": "Наше радіо укр топ 100",
+        "station": "Інді UA",
         "desc": "Радіо незалежної музики",
         "logo": "https://play.tavr.media/static/image/header_menu/Radio_IndieUA_logo_220x220.png",
         "stream": "https://online.radioplayer.ua/RadioIndieUA"
