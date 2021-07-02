@@ -130,5 +130,41 @@
         "desc": "Радіо незалежної музики",
         "logo": "https://play.tavr.media/static/image/header_menu/Radio_IndieUA_logo_220x220.png",
         "stream": "https://online.radioplayer.ua/RadioIndieUA"
-    }	
+    },
+	
+ {   "id": 19,
+        "station": "Radio ROKS",
+        "desc": "Рок, тільки рок!",
+        "logo": "https://play.tavr.media/static/image/header_menu/roks_efir_162x162.png",
+        "stream": "https://online.radioroks.ua/RadioROKS"
+    },
+
+ {   "id": 20,
+        "station": "Radio ROKS Український рок",
+        "desc": "Рок, тільки рок!",
+        "logo": "https://play.tavr.media/static/image/header_menu/roks_ukrrock_162x16210.png",
+        "stream": "https://online.radioroks.ua/RadioROKS_Ukr"
+    },
+	
+ {   "id": 21,
+        "station": "Radio ROKS Новий Рок",
+        "desc": "Рок, тільки рок!",
+        "logo": "https://play.tavr.media/static/image/header_menu/roks_newrock_162x162.png",
+        "stream": "https://online.radioroks.ua/RadioROKS_NewRock"
+    },
+	
+ {   "id": 22,
+        "station": "Radio ROKS Hard'n'Heavy",
+        "desc": "Рок, тільки рок!",
+        "logo": "https://play.tavr.media/static/image/header_menu/roks_hardnheavy_162x162.png",
+        "stream": "https://online.radioroks.ua/RadioROKS_HardnHeavy"
+    },
+	
+{   "id": 23,
+        "station": "Radio ROKS Рок-Балади",
+        "desc": "Рок, тільки рок!",
+        "logo": "https://play.tavr.media/static/image/header_menu/roks_ballads_162x162.png",
+        "stream": "https://online.radioroks.ua/RadioROKS_Ballads"
+    }
+	
 ]
