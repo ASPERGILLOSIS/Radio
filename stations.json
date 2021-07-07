@@ -165,6 +165,34 @@
         "desc": "Рок, тільки рок!",
         "logo": "https://play.tavr.media/static/image/header_menu/roks_ballads_162x162.png",
         "stream": "https://online.radioroks.ua/RadioROKS_Ballads"
+    },
+
+ {   "id": 24,
+        "station": "Мелодія FM",
+        "desc": "Найкращі хіти 90-х і 2000-х!",
+        "logo": "https://play.tavr.media/static/image/header_menu/MelodiaFM_Efir_new_228x228.png",
+        "stream": "https://online.melodiafm.ua/MelodiaFM"
+    },
+
+ {   "id": 25,
+        "station": "Мелодія FM International",
+        "desc": "Найкращі хіти 90-х і 2000-х!",
+        "logo": "https://play.tavr.media/static/image/header_menu/MelodiaFM_International_220x220.jpg",
+        "stream": "https://online.melodiafm.ua/MelodiaFM_Int"
+    },
+
+ {   "id": 26,
+        "station": "Мелодія FM Disco",
+        "desc": "Найкращі хіти 90-х і 2000-х!",
+        "logo": "https://play.tavr.media/static/image/header_menu/MelodiaFM_Disco_220x220.png",
+        "stream": "https://online.melodiafm.ua/MelodiaFM_Disco"
+    },
+
+ {   "id": 247,
+        "station": "Мелодія FM Romantic",
+        "desc": "Найкращі хіти 90-х і 2000-х!",
+        "logo": "https://play.tavr.media/static/image/header_menu/MelodiaFM_Romantic_220x220.png",
+        "stream": "https://online.melodiafm.ua/MelodiaFM_Romantic"
     }
 	
 ]
