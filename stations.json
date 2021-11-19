@@ -188,11 +188,17 @@
         "stream": "https://online.melodiafm.ua/MelodiaFM_Disco"
     },
 
- {   "id": 247,
+ {   "id": 27,
         "station": "Мелодія FM Romantic",
         "desc": "Найкращі хіти 90-х і 2000-х!",
         "logo": "https://play.tavr.media/static/image/header_menu/MelodiaFM_Romantic_220x220.png",
         "stream": "https://online.melodiafm.ua/MelodiaFM_Romantic"
+    },
+ {   "id": 28,
+        "station": "Русское Радио Україна",
+        "desc": "Всё будет хорошо!",
+        "logo": "https://play.tavr.media/static/image/header_menu/RusRadio_Efir_220x220.png",
+        "stream": "https://online.rusradio.ua/RusRadio"
     }
 	
 ]
